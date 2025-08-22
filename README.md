@@ -1,4 +1,3 @@
-# Intro-to-SIA
 My expectations about this subject are to improve my skills that is related to technology on how the computers, servers, and networks communicate and share data.
 I believe that this subject will help me not only to use technology in an efficient, but this will help me to enhance my criitical thinking. I know that this course will help me to prepare in my future projects the company. 
 
